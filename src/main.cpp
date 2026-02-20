@@ -8,6 +8,7 @@
  * Measures distance using HC-SR04 ultrasonic sensor
  * and displays structured output via Serial Monitor.
  */
+
 #include <Arduino.h>
 
 int trig_pin = 9;
