@@ -1,7 +1,7 @@
 /**
 * @file main.cpp
  * @brief Embedded Distance Measurement using Ultrasonic Sensor
- * @author Ayush kumar Sikarwar
+ * @author Ayush kumar Sikarwar (Ayush1Sikarwar)
  * @date 19-02-2026
  *
  * @details
